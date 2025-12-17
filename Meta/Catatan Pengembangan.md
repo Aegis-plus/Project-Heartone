@@ -42,6 +42,7 @@
 - [x] [[Peradaban/Klan Kurcaci Pegunungan|The Star-Smith Confederacy]] — Kurcaci kristal-rune-steam (BARU ✨)
 - [x] [[Peradaban/Koalisi Tidesworn|Koalisi Tidesworn]] — Aliansi maritim dengan ras Deepborn (BARU ✨)
 - [x] [[Peradaban/Index Peradaban|Index Peradaban]] — Perbandingan dan analisis (BARU ✨)
+- [x] Suku Nomaden Padang Rumput — Detail lebih lanjut (sekarang [[Peradaban/Kaum Khavari|Kaum Khavari]])
 
 #### Landmark - Detail Lengkap
 - [x] [[Landmark/Index Landmark|Index Landmark]] — Daftar semua landmark
@@ -102,9 +103,6 @@
 
 **Total Landmark Tertunda:** 29 (terdaftar, siap dikembangkan)
 
-#### Peradaban (Belum Detail)
-- [x] Suku Nomaden Padang Rumput — Detail lebih lanjut (sekarang [[Peradaban/Kaum Khavari|Kaum Khavari]])
-
 #### Sistem dan Mekanik
 - [ ] Sistem Sihir Dunia — Bagaimana sihir bekerja?
 - [ ] Ras-ras Lain — Selain manusia, elf, kurcaci, Deepborn?
@@ -138,8 +136,8 @@
 ## 📊 Statistik Project
 
 ### Dokumen
-- **Total Markdown:** 30+ files
-- **Lore Documents:** 5
+- **Total Markdown:** 31+ files
+- **Lore Documents:** 6
 - **Geography Documents:** 6
 - **Civilization Documents:** 5
 - **Landmark Documents:** 6 (detail) + 29 (placeholder)
@@ -356,6 +354,38 @@ Kepulauan Badai:             █████░░░░░ 60%
 
 ---
 
+### Sesi 6: Lore Consistency & Mortal Resistance
+**Tanggal:** Sesi Terbaru
+**Yang Dibahas:**
+- Integrasi peradaban baru (Solara, Star-Smith, Tidesworn) ke dalam lore inti
+- Pembuatan konsep "Perlawanan Mortal" sebagai penyeimbang Akselerator Internal
+- Update dokumen lore untuk konsistensi global
+- Penambahan manifestasi Wabah spesifik per lingkungan
+
+**Perubahan Utama:**
+- **Lore/Konsep Inti.md:** Tambah inspirasi (BioShock, Lovecraft), link ke peradaban baru
+- **Lore/Benteng Alam.md:** Update hubungan dengan semua peradaban baru
+- **Lore/Akselerator Internal.md:** Tambah contoh Akselerator dari peradaban baru
+- **Lore/Para Pemakan Hati.md:** Tambah manifestasi lingkungan spesifik Wabah
+- **Lore/Perlawanan Mortal.md:** File baru - 5 ordo perlawanan lintas peradaban
+
+**Konsep Utama:**
+- Dunia sekarang memiliki keseimbangan: Para Pemakan Hati vs Benteng Alam vs Perlawanan Mortal vs Akselerator Internal
+- Setiap peradaban memiliki hubungan unik dengan alam dan ancaman
+- Wabah bermanifestasi berbeda di berbagai lingkungan
+
+**Output:**
+- 1 dokumen Lore baru (Perlawanan Mortal)
+- 4 dokumen Lore updated (Konsep Inti, Benteng Alam, Akselerator Internal, Para Pemakan Hati)
+- Update Catatan Pengembangan (log sesi ini)
+- Update statistik dokumen Lore (5 → 6 dokumen)
+
+**Total File Baru:** 1 file + 4 updates
+
+**Progress Lore:** ✅ Semua dokumen lore sekarang konsisten dan mencakup peradaban terbaru
+
+---
+
 ## 📁 Struktur Folder Vault (Saat Ini)
 
 ```
@@ -369,7 +399,8 @@ Project Heartone/
 │   ├── Gerhana Abadi.md
 │   ├── Para Pemakan Hati.md
 │   ├── Benteng Alam.md
-│   └── Akselerator Internal.md
+│   ├── Akselerator Internal.md
+│   └── Perlawanan Mortal.md
 │
 ├── Geografi/
 │   ├── Peta Dunia.md              ← Updated
@@ -381,6 +412,7 @@ Project Heartone/
 │
 ├── Peradaban/
 │   ├── Index Peradaban.md         ← NEW (Perbandingan & Analisis)
+│   ├── Kaum Khavari.md
 │   ├── Kaum Sylvani.md
 │   ├── Republik Solara.md         ← NEW
 │   ├── Kerajaan Valoria.md
@@ -555,4 +587,4 @@ Proyek siap untuk di-push ke GitHub. Semua file foundational dan dokumentasi sud
 
 #meta #pengembangan #todo #progress #github-ready
 
-**Last Updated:** Sesi 5 - Character Development Completion
+**Last Updated:** Sesi 6 - Lore Consistency & Mortal Resistance

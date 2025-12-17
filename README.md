@@ -31,6 +31,7 @@ The world teeters on the edge of destruction, caught between ancient natural for
 - **The Heart-Eaters** — Cosmic entities born from crystallized negative emotions during an ancient cataclysm called *The Eternal Eclipse*
 - **The Natural Bastion** — Primal Spirits that protect the world, now weakening
 - **Internal Accelerators** — Corrupted individuals within civilizations who unknowingly hasten the world's destruction
+- **The Mortal Resistance** — Organizations and individuals actively fighting the Blight across civilizations
 
 ## World Structure
 
@@ -72,8 +73,9 @@ The world consists of **one main continent** and **separate island chains**:
 | **The Sylvani** | Forest Elves | Isolationist, guarding the forest |
 | **Solara Republic** | Trade Republic | Neutral, caught in dilemma |
 | **Kingdom of Valoria** | Human Kingdom | Crumbling, heavily corrupted |
-| **Dwarven Clans** | Mountain Dwellers | Isolated, traditional |
-| **Storm Islanders** | Seafarers | Independent, pragmatic |
+| **The Star-Smith Confederacy** | Dwarven Clans | Crystal-rune-steam technology |
+| **Koalisi Tidesworn** | Seafaring Alliance | Maritime culture, Deepborn race |
+| **Kaum Khavari** | Nomadic Tribes | Plains nomads, horse culture |
 
 ### Blight Status by Region
 
@@ -135,6 +137,8 @@ Project Heartone/
 - **Dark Souls** — Atmosphere, dying world aesthetic
 - **The Witcher** — Dark medieval fantasy, moral complexity
 - **Hollow Knight** — Infection/plague spreading from within
+- **BioShock** — Crystal-steampunk technology (Star-Smith Confederacy)
+- **Lovecraft** — Cosmic horror and deep sea themes (Koalisi Tidesworn)
 
 ## Contributing
 
@@ -175,6 +179,7 @@ Dunia ini berada di ambang kehancuran, terjepit antara kekuatan alam kuno dan ke
 - **Para Pemakan Hati** — Entitas kosmik yang lahir dari emosi negatif yang mengkristal selama kataklisme kuno bernama *Gerhana Abadi*
 - **Benteng Alam** — Roh Primal yang melindungi dunia, kini melemah
 - **Akselerator Internal** — Individu terkorupsi dalam peradaban yang tanpa sadar mempercepat kehancuran dunia
+- **Perlawanan Mortal** — Organisasi dan individu yang aktif melawan Wabah di berbagai peradaban
 
 ## Struktur Dunia
 
@@ -197,8 +202,9 @@ Dunia terdiri dari **satu benua utama** dan **kepulauan terpisah**:
 | **Kaum Sylvani** | Elf Hutan | Isolasionis, menjaga hutan |
 | **Republik Solara** | Republik Dagang | Netral, terjebak dilema |
 | **Kerajaan Valoria** | Kerajaan Manusia | Runtuh, sangat terkorupsi |
-| **Klan Kurcaci** | Penghuni Gunung | Terisolasi, tradisional |
-| **Pelaut Kepulauan** | Pelaut | Independen, pragmatis |
+| **The Star-Smith Confederacy** | Klan Kurcaci | Teknologi kristal-rune-uap |
+| **Koalisi Tidesworn** | Aliansi Maritim | Budaya maritim, ras Deepborn |
+| **Kaum Khavari** | Suku Nomaden | Nomaden padang rumput, budaya kuda |
 
 ### Status Wabah per Wilayah
 
@@ -260,6 +266,8 @@ Project Heartone/
 - **Dark Souls** — Atmosfer, estetika dunia sekarat
 - **The Witcher** — Fantasi abad pertengahan gelap, kompleksitas moral
 - **Hollow Knight** — Infeksi/wabah yang menyebar dari dalam
+- **BioShock** — Teknologi kristal-uap (Star-Smith Confederacy)
+- **Lovecraft** — Horor kosmik dan tema laut dalam (Koalisi Tidesworn)
 
 ## Kontribusi
 
