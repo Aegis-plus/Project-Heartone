@@ -137,7 +137,11 @@ Roh Primal dapat memicu atau mengarahkan fenomena alam untuk melawan Wabah:
 | [[Lore/Para Pemakan Hati\|Para Pemakan Hati]] | Musuh abadi |
 | [[Peradaban/Kaum Sylvani\|Kaum Sylvani]] | Sekutu terdekat, penjaga hutan |
 | [[Peradaban/Kerajaan Valoria\|Kerajaan Valoria]] | Hubungan renggang; manusia sering merusak alam |
+| [[Peradaban/Republik Solara\|Republik Solara]] | Hubungan tegang; eksploitasi komersial terhadap sumber daya alam |
+| [[Peradaban/Klan Kurcaci Pegunungan\|Star-Smith Confederacy]] | Hubungan kompleks; menggali bumi tapi menghormati roh batu |
+| [[Peradaban/Koalisi Tidesworn\|Koalisi Tidesworn]] | Hubungan simbiosis; hidup selaras dengan roh laut dan badai |
 | [[Lore/Akselerator Internal\|Akselerator Internal]] | Ancaman tidak langsung |
+| [[Lore/Perlawanan Mortal\|Perlawanan Mortal]] | Sekutu tidak langsung; berbagi tujuan tapi berbeda metode |
 
 ---
 

@@ -16,12 +16,13 @@
 
 Akselerator Internal umumnya adalah **tokoh berpengaruh** di masyarakat:
 
-- 👑 Pemimpin politik (raja, bangsawan, gubernur)
-- ⚔️ Pemimpin militer (jenderal, komandan)
-- 📜 Penasihat kerajaan
+- 👑 Pemimpin politik (raja, bangsawan, gubernur, anggota dewan)
+- ⚔️ Pemimpin militer (jenderal, komandan, kapten)
+- 📜 Penasihat kerajaan atau dewan
 - 🏛️ Tokoh agama atau spiritual
-- 💰 Pedagang kaya dan berpengaruh
-- 🔮 Penyihir atau akademisi
+- 💰 Pedagang kaya dan berpengaruh, guildmaster
+- 🔮 Penyihir atau akademisi, insinyur senior
+- ⚢ Kapten kapal atau pemimpin ekspedisi
 
 ---
 
@@ -86,30 +87,45 @@ Para Pemakan Hati mempengaruhi individu-individu ini melalui berbagai cara:
 
 ## Contoh Tipe Akselerator
 
-### 1. Raja yang Terkorupsi
+### 1. Raja yang Terkorupsi (Valoria)
 - Dulunya pemimpin yang baik, kini dikuasai ketakutan
 - Mengumpulkan kekayaan untuk "persiapan" yang tidak pernah datang
 - Membiarkan rakyatnya menderita demi keamanan palsu
 
-### 2. Jenderal yang Putus Asa
+### 2. Jenderal yang Putus Asa (Valoria)
 - Kalah dalam pertempuran melawan Wabah berkali-kali
 - Percaya kehancuran tak terhindarkan
 - Diam-diam membantu mempercepat akhir
 
-### 3. Penasihat yang Dimanipulasi
+### 3. Penasihat yang Dimanipulasi (Valoria/Solara)
 - Berbicara dengan "entitas" dalam mimpi
 - Menerima pengetahuan gelap
 - Memberikan nasihat yang mengarah pada kehancuran
 
-### 4. Kultis yang Salah Arah
+### 4. Kultis yang Salah Arah (Berbagai Wilayah)
 - Percaya melakukan ritual untuk "pembersihan" atau "kelahiran kembali"
 - Tidak sadar sedang memberdayakan Para Pemakan Hati
 - Seringkali korban, bukan penjahat sejati
 
-### 5. Pedagang yang Serakah
+### 5. Pedagang yang Serakah (Solara)
 - Menjual sumber daya vital ke area terinfeksi
 - Mengeksploitasi keputusasaan untuk keuntungan
 - Menyebarkan barang terkontaminasi tanpa sadar
+
+### 6. Guildmaster yang Ambisius (Star-Smith)
+- Memerintahkan penggalian terlalu dalam demi kristal langka
+- Tidak peduli dengan bangunnya "sesuatu" dari dalam bumi
+- Mengabaikan protokol keamanan rune
+
+### 7. Kapten yang Putus Asa (Tidesworn)
+- Kehilangan terlalu banyak kru dalam pertempuran laut
+- Membuat pakta dengan "entitas laut dalam" untuk perlindungan
+- Tidak sadar sedang mengundang Wabah ke perairan aman
+
+### 8. Anggota Dewan yang Korup (Solara)
+- Menyabotase regulasi keselamatan untuk suap
+- Memprioritaskan profit di atas nyawa warga
+- Menghalangi upaya karantina area terinfeksi
 
 ---
 
@@ -141,7 +157,11 @@ Para Pemakan Hati tidak membutuhkan organisasi:
 |---------|----------|
 | [[Lore/Para Pemakan Hati\|Para Pemakan Hati]] | "Tuan" tidak langsung |
 | [[Lore/Benteng Alam\|Benteng Alam]] | Target penghancuran |
+| [[Lore/Perlawanan Mortal\|Perlawanan Mortal]] | Musuh langsung; tandingan mereka |
 | [[Peradaban/Kerajaan Valoria\|Kerajaan Valoria]] | Sarang utama aktivitas mereka |
+| [[Peradaban/Republik Solara\|Republik Solara]] | Sarang aktivitas ekonomi korup |
+| [[Peradaban/Klan Kurcaci Pegunungan\|Star-Smith Confederacy]] | Sarang ambisi teknologis berbahaya |
+| [[Peradaban/Koalisi Tidesworn\|Koalisi Tidesworn]] | Sarang keputusasaan maritim |
 | [[Peradaban/Kaum Sylvani\|Kaum Sylvani]] | Hampir tidak terpengaruh (terlalu terhubung dengan alam) |
 
 ---
@@ -159,7 +179,11 @@ Para Pemakan Hati tidak membutuhkan organisasi:
 ## Dokumen Terkait
 
 - [[Lore/Para Pemakan Hati|Para Pemakan Hati]] — Kekuatan yang mempengaruhi mereka
-- [[Peradaban/Kerajaan Valoria|Kerajaan Valoria]] — Lokasi utama aktivitas
+- [[Lore/Perlawanan Mortal|Perlawanan Mortal]] — Tandingan langsung mereka
+- [[Peradaban/Kerajaan Valoria|Kerajaan Valoria]] — Sarang utama aktivitas
+- [[Peradaban/Republik Solara|Republik Solara]] — Sarang aktivitas ekonomi korup
+- [[Peradaban/Klan Kurcaci Pegunungan|Star-Smith Confederacy]] — Sarang ambisi teknologis
+- [[Peradaban/Koalisi Tidesworn|Koalisi Tidesworn]] — Sarang keputusasaan maritim
 - [[Lore/Konsep Inti|Konsep Inti]] — Konteks lebih luas
 
 ---

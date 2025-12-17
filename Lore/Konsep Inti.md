@@ -13,6 +13,8 @@ Dunia ini memadukan:
 - Konflik sentral yang meningkat
 - Kengerian kosmik
 - Pembusukan internal
+- Teknologi kristal-uap (Steampunk)
+- Budaya maritim dan kedalaman laut
 
 ---
 
@@ -48,6 +50,8 @@ Lihat: [[Lore/Benteng Alam|Benteng Alam]]
 - **Dark Souls** — Atmosfer kegelapan, dunia yang sekarat
 - **The Witcher** — Fantasi abad pertengahan dengan nuansa gelap
 - **Hollow Knight** — Infeksi/wabah yang merusak dari dalam
+- **BioShock** — Teknologi uap dan estetika art deco (Star-Smith, Solara)
+- **Lovecraft** — Horor kosmik dan kedalaman laut (Tidesworn)
 
 ---
 
@@ -57,7 +61,9 @@ Lihat: [[Lore/Benteng Alam|Benteng Alam]]
 - [[Lore/Para Pemakan Hati|Para Pemakan Hati]] — Ancaman utama
 - [[Lore/Benteng Alam|Benteng Alam]] — Kekuatan penyeimbang
 - [[Lore/Akselerator Internal|Akselerator Internal]] — Pengkhianat internal
+- [[Lore/Perlawanan Mortal|Perlawanan Mortal]] — Harapan dan ketahanan ras beradab
 - [[Geografi/Peta Dunia|Peta Dunia]] — Geografi dunia
+- [[Peradaban/Index Peradaban|Index Peradaban]] — Faksi-faksi utama dunia
 
 ---
 

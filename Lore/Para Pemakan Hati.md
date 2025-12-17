@@ -98,6 +98,30 @@ Wabah tidak hanya merusak fisik — ia menyerang "hati" makhluk hidup:
 | **Keputusasaan** | Kehilangan semua harapan |
 | **Transformasi** | Menjadi cangkang tanpa jiwa yang melayani Para Pemakan Hati |
 
+### Manifestasi Lingkungan Spesifik
+
+Wabah bermanifestasi berbeda tergantung lingkungan:
+
+**🏔️ Di Pegunungan (Star-Smith Confederacy):**
+- Kristal hitam yang "berdenyut" tumbuh di dinding tambang
+- Uap terkontaminasi yang menyebabkan halusinasi ganas
+- Mesin uap yang terkorupsi dan menjadi hidup
+
+**🌊 Di Laut (Koalisi Tidesworn):**
+- Air menjadi hitam pekat dan beracun
+- Makhluk laut bermutasi menjadi monster raksasa
+- "Pasang Hitam" yang membawa bangkai terinfeksi ke pantai
+
+**🏙️ Di Kota (Republik Solara):**
+- Korupsi menyebar melalui sistem perdagangan dan uang
+- Artefak terkutuk yang dijual sebagai barang antik
+- Epidemi "Keputusasaan Urban" yang melumpuhkan populasi
+
+**🌳️ Di Hutan (Kaum Sylvani):**
+- Pohon "berteriak" dan menyerang makhluk hidup
+- Kabut yang membuat hilang ingatan dan arah
+- Spora yang menginfeksi pikiran
+
 ---
 
 ## Cara Penyebaran
@@ -125,6 +149,8 @@ Wabah tidak hanya merusak fisik — ia menyerang "hati" makhluk hidup:
 - [[Lore/Benteng Alam|Benteng Alam]] — Kekuatan yang melawan mereka
 - [[Lore/Akselerator Internal|Akselerator Internal]] — Yang membantu mereka
 - [[Geografi/Dataran Tandus Prahara|Dataran Tandus Prahara]] — Wilayah yang paling terpengaruh
+- [[Lore/Perlawanan Mortal|Perlawanan Mortal]] — Yang melawan mereka
+- [[Peradaban/Index Peradaban|Index Peradaban]] — Faksi-faksi yang terpengaruh
 
 ---
 
