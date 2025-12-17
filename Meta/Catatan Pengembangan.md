@@ -8,7 +8,7 @@
 
 **Nama Project:** Project Heartone
 **Tipe:** World Building untuk RP Campaign
-**Status:** READY FOR GITHUB 🚀
+**Status:** ACTIVE DEVELOPMENT 🚀
 **Inspirasi:** Runeterra, Dark Souls, The Witcher, Hollow Knight
 **License:** CC BY-NC-SA 4.0
 
@@ -33,14 +33,13 @@
 - [x] [[Geografi/Dataran Tandus Prahara|Dataran Tandus Prahara]] — Wilayah krisis
 - [x] [[Geografi/Kepulauan Badai|Kepulauan Badai]] — Wilayah laut terpisah
 
-
-
 #### Peradaban
 - [x] [[Peradaban/Kaum Sylvani|Kaum Sylvani]] — Elf hutan
 - [x] [[Peradaban/Republik Solara|Republik Solara]] — Republik perdagangan (BARU ✨)
 - [x] [[Peradaban/Kerajaan Valoria|Kerajaan Valoria]] — Kerajaan manusia
 - [x] [[Peradaban/Klan Kurcaci Pegunungan|The Star-Smith Confederacy]] — Kurcaci kristal-rune-steam (BARU ✨)
 - [x] [[Peradaban/Index Peradaban|Index Peradaban]] — Perbandingan dan analisis (BARU ✨)
+- [x] [[Peradaban/Koalisi Tidesworn|Koalisi Tidesworn]] — Aliansi maritim Manusia & Deepborn di Kepulauan Badai (BARU ✨)
 
 #### Landmark - Detail Lengkap
 - [x] [[Landmark/Index Landmark|Index Landmark]] — Daftar semua landmark
@@ -92,8 +91,8 @@
 - [ ] Jembatan Perak
 
 **Kepulauan Badai (6):**
-- [ ] Pelabuhan Badai
-- [ ] Gunung Api Sang Murka
+- [ ] Pelabuhan Badai (Stormhaven)
+- [ ] Gunung Api Abadi
 - [ ] Kuil Kedalaman
 - [ ] Pulau Terlarang
 - [ ] Karang Tengkorak
@@ -102,12 +101,12 @@
 **Total Landmark Tertunda:** 29 (terdaftar, siap dikembangkan)
 
 #### Peradaban (Belum Detail)
-- [ ] Pelaut Kepulauan Badai — Nama, struktur, tokoh
+- [ ] Pelaut Kepulauan Badai — Struktur detail (sekarang jadi Koalisi Tidesworn)
 - [ ] Suku Nomaden Padang Rumput — Detail lebih lanjut
 
 #### Sistem dan Mekanik
 - [ ] Sistem Sihir Dunia — Bagaimana sihir bekerja?
-- [ ] Ras-ras Lain — Selain manusia, elf, kurcaci?
+- [ ] Ras-ras Lain — Selain manusia, elf, kurcaci, Deepborn?
 - [ ] Agama dan Kepercayaan — Detail lebih lanjut
 - [ ] Ekonomi dan Perdagangan — Sistem ekonomi dunia
 - [ ] Sistem Perlindungan Wabah — Mekanik game
@@ -138,10 +137,10 @@
 ## 📊 Statistik Project
 
 ### Dokumen
-- **Total Markdown:** 29+ files
+- **Total Markdown:** 30+ files
 - **Lore Documents:** 5
 - **Geography Documents:** 6
-- **Civilization Documents:** 4
+- **Civilization Documents:** 5 (Sylvani, Solara, Valoria, Kurcaci, Tidesworn)
 - **Landmark Documents:** 6 (detail) + 29 (placeholder)
 - **Meta Documents:** 1
 
@@ -159,27 +158,27 @@
 ```
 Pegunungan Puncak Abadi:     █████░░░░░ 50%
   - Geography: ✅
-  - Civilization: ✅
+  - Civilization: ✅ (Kurcaci)
   - Landmarks: 10% (1/6 detail)
 
 Hutan Bisikan Purba:         ████░░░░░░ 40%
   - Geography: ✅
-  - Civilization: ✅
+  - Civilization: ✅ (Sylvani)
   - Landmarks: 14% (1/7 detail)
 
 Republik Solara:             ██████░░░░ 60%
   - Geography: ✅
-  - Civilization: ✅
+  - Civilization: ✅ (Solara)
   - Landmarks: 57% (4/7 detail)
 
 Dataran Tandus Prahara:      ████░░░░░░ 40%
   - Geography: ✅
-  - Civilization: ✅
+  - Civilization: ✅ (Valoria)
   - Landmarks: 17% (1/6 detail)
 
-Kepulauan Badai:             ███░░░░░░░ 30%
+Kepulauan Badai:             ███████░░░ 70%
   - Geography: ✅
-  - Civilization: ⏳
+  - Civilization: ✅ (Tidesworn)
   - Landmarks: 0% (0/6 detail)
 ```
 
@@ -208,7 +207,7 @@ Kepulauan Badai:             ███░░░░░░░ 30%
 - Para Pemakan Hati sebenarnya adalah sisa kesadaran peradaban yang hancur
 - Ada cara untuk berkomunikasi dengan Para Pemakan Hati
 - Arsip Kosmik menyembunyikan informasi kritis
-- Gerbang ke Dunia Lain terletak di bawah Luka Hitam
+- Gerhana Abadi adalah gerbang ke Dunia Lain
 
 ---
 
@@ -285,6 +284,26 @@ Kepulauan Badai:             ███░░░░░░░ 30%
 
 ---
 
+### Sesi 4: Koalisi Tidesworn & Deepborn
+**Tanggal:** Sesi Baru
+**Yang Dibahas:**
+- Pengembangan peradaban Kepulauan Badai: **Koalisi Tidesworn**.
+- Penciptaan ras unik: **Deepborn** (amfibi vulkanik).
+- Struktur sosial: Aliansi Manusia & Deepborn, dipimpin The Horizon Council.
+- Tokoh Kunci: High Admiral Vane (Manusia), Tide-Mother Neryssa (Deepborn), Captain Iron-Gill Kael (Deepborn).
+- Hubungan diplomatik: Solara (mitra dagang), Valoria (dingin/konflik), Kurcaci (terbatas), Sylvani (jarang).
+- Pembaruan Index Peradaban dengan Koalisi Tidesworn.
+
+**Output:**
+- 1 dokumen Peradaban baru (Koalisi Tidesworn)
+- Update Index Peradaban (tambahkan Tidesworn & Deepborn)
+- Update statistik dan coverage wilayah Kepulauan Badai.
+- Update Catatan Pengembangan (log sesi ini).
+
+**Total File Baru:** 1 file + 3 updates
+
+---
+
 ## 📁 Struktur Folder Vault (Saat Ini)
 
 ```
@@ -309,11 +328,12 @@ Project Heartone/
 │   └── Kepulauan Badai.md         ← Updated
 │
 ├── Peradaban/
-│   ├── Index Peradaban.md         ← NEW (Perbandingan & Analisis)
+│   ├── Index Peradaban.md         ← Updated (Added Tidesworn)
 │   ├── Kaum Sylvani.md
 │   ├── Republik Solara.md         ← NEW
 │   ├── Kerajaan Valoria.md
-│   └── Klan Kurcaci Pegunungan.md ← NEW (The Star-Smith Confederacy)
+│   ├── Klan Kurcaci Pegunungan.md ← NEW (The Star-Smith Confederacy)
+│   └── Koalisi Tidesworn.md       ← NEW (Tidesworn Coalition & Deepborn)
 │
 ├── Landmark/
 │   ├── Index Landmark.md          ← NEW
@@ -335,14 +355,14 @@ Project Heartone/
 ## 🎯 Next Steps (Prioritas)
 
 ### Priority 1: Campaign-Ready Content
-1. [ ] Tokoh Penting (minimal 5-10 per faksi)
+1. [ ] Tokoh & NPC (minimal 5-10 per faksi utama)
 2. [ ] Main Plot Hook (cerita utama campaign)
 3. [ ] Sample Quests (5-10 quest sampel)
 
 ### Priority 2: Completeness
 4. [ ] Semua 29 landmark dengan minimal detail
-5. [ ] Detail Peradaban (NPC, budaya, ekonomi)
-6. [ ] Sistem Mekanik
+5. [ ] Detail Peradaban (Suku Nomaden Padang Rumput)
+6. [ ] Sistem Mekanik (Sihir, Ekonomi, Wabah)
 
 ### Priority 3: Enhancement
 7. [ ] Timeline lengkap
@@ -374,6 +394,7 @@ Project Heartone/
 - [[Peradaban/Republik Solara|Republik Solara]] ✨ NEW
 - [[Peradaban/Kerajaan Valoria|Kerajaan Valoria]]
 - [[Peradaban/Klan Kurcaci Pegunungan|The Star-Smith Confederacy]] ✨ NEW
+- [[Peradaban/Koalisi Tidesworn|Koalisi Tidesworn]] ✨ NEW
 
 ### Landmark
 - [[Landmark/Index Landmark|Index Landmark]] ✨ NEW
@@ -387,7 +408,7 @@ Project Heartone/
 
 ## 📊 Commit History (untuk Git)
 
-### Sesi 1
+### Sesi 1: Foundation
 ```
 feat: Initial world building foundation
 - Add core lore (5 documents)
@@ -396,7 +417,7 @@ feat: Initial world building foundation
 - Create home page
 ```
 
-### Sesi 2
+### Sesi 2: Expansion & Landmarks
 ```
 feat: Add Solara Republic and landmarks
 - Add Solara geography and civilization
@@ -411,7 +432,7 @@ feat: Prepare for GitHub publishing
 - Update development notes
 ```
 
-### Sesi 3
+### Sesi 3: The Star-Smith Confederacy
 ```
 feat: Add The Star-Smith Confederacy
 - Add comprehensive dwarf civilization with crystal-rune-steam technology
@@ -428,13 +449,30 @@ feat: Update project documentation
 - Add new civilization to quick links
 ```
 
+### Sesi 4: Koalisi Tidesworn & Deepborn
+```
+feat: Add Koalisi Tidesworn and Deepborn race
+- Develop maritime civilization for Kepulauan Badai
+- Create Deepborn race (amphibious, vulcanic, deep-sea traits)
+- Define Tidesworn Coalition structure (Manusia + Deepborn)
+- Add key figures (Vane, Neryssa, Kael) and relationships
+- Update Index Peradaban with new civilization and race
+- Update development notes and progress statistics
+
+feat: Finalize civilization index and documentation
+- Add Tidesworn Coalition to Index Peradaban
+- Update civilization comparison tables
+- Update coverage statistics for Kepulauan Badai (70%)
+- Add new civilization to quick links and navigation
+```
+
 ---
 
 ## 📋 Checklist untuk Publishing
 
 - [x] Core lore lengkap
 - [x] Geography detail lengkap
-- [x] Main civilizations overview
+- [x] Main civilizations overview (5 factions)
 - [x] Key landmarks dengan detail
 - [x] Home page navigation
 - [x] README.md bilingual
@@ -447,7 +485,7 @@ feat: Update project documentation
 
 ## 📌 Notes
 
-**Repository Ready:** ✅ 
+**Repository Ready:** ✅
 Proyek siap untuk di-push ke GitHub. Semua file foundational dan dokumentasi sudah lengkap.
 
 **Best Practices:**
@@ -463,6 +501,4 @@ Proyek siap untuk di-push ke GitHub. Semua file foundational dan dokumentasi sud
 
 ---
 
-#meta #pengembangan #todo #progress #github-ready
-
-**Last Updated:** Sesi 3 - The Star-Smith Confederacy
+#meta #pengembangan #todo #progress #github-ready #worldbuilding #act-mode
