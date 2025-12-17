@@ -1,0 +1,156 @@
+# Obsidian Vault - Gitignore
+# This file specifies which files and folders should NOT be tracked by Git
+
+# ============================================================================
+# OBSIDIAN FILES
+# ============================================================================
+
+# Obsidian workspace settings (user-specific)
+.obsidian/
+
+# Obsidian plugins (user-specific installations)
+.obsidian/plugins/
+
+# Obsidian themes (user-specific)
+.obsidian/themes/
+
+# Obsidian cache and temporary files
+.obsidian/cache/
+.obsidian/*.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+.obsidian/hotkeys.json
+.obsidian/snippets/
+
+# Obsidian graph settings (user-specific)
+.obsidian/graph.json
+
+# Obsidian workspace.json (user-specific layout)
+.obsidian/workspace.json
+.obsidian/workspace-alt.json
+
+# Obsidian daily notes cache
+.obsidian/daily-notes/
+
+# ============================================================================
+# OS AND IDE FILES
+# ============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+.Spotlight-V100
+.Trashes
+
+# Linux
+.directory
+
+# IDE - VSCode, Sublime, etc.
+.vscode/
+.vscode/settings.json
+.vscode/extensions.json
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ============================================================================
+# TEMPORARY FILES
+# ============================================================================
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS temporary files
+$RECYCLE.BIN/
+.~*
+
+# ============================================================================
+# LOCAL DEVELOPMENT
+# ============================================================================
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Local configuration files (user-specific)
+local-config.md
+
+# Development notes (not to be shared)
+NOTES-PRIVATE.md
+TODO-PRIVATE.md
+
+# ============================================================================
+# PERSONAL/SENSITIVE INFO
+# ============================================================================
+
+# Personal notes (if you have any)
+personal/
+private/
+secrets/
+
+# Backup files
+*.backup
+*.old
+
+# ============================================================================
+# BUILD AND DISTRIBUTION
+# ============================================================================
+
+# Node modules (if using any Node-based tools)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+dist/
+build/
+out/
+
+# ============================================================================
+# EXTERNAL/THIRD-PARTY
+# ============================================================================
+
+# External libraries or dependencies
+vendor/
+lib/external/
+
+# Downloaded files
+downloads/
+tmp/
+
+# ============================================================================
+# PLATFORM-SPECIFIC
+# ============================================================================
+
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle
+build/
+
+# Maven
+target/
+
+# Miscellaneous
+*.log
+*.rar
+*.zip
