@@ -1,18 +1,18 @@
-# Kerajaan Valoria (The Kingdom of Valoria)
+# 👑 Kerajaan Valoria
 
 > Kembali ke [[00 - Home|Home]] | Lokasi: [[Geografi/Dataran Tandus Prahara|Dataran Tandus Prahara]]
 
 ---
 
-## Ringkasan
+## 📜 Ringkasan
 
-**Kerajaan Valoria** adalah kerajaan manusia terbesar dan paling berpengaruh di benua. Secara historis merupakan kekuatan dominan, Valoria kini menghadapi kehancuran dari dalam dan luar — [[Lore/Para Pemakan Hati|Wabah]] yang merayap dan [[Lore/Akselerator Internal|Akselerator Internal]] yang menggerogoti fondasinya.
+**👑 Kerajaan Valoria** adalah kerajaan manusia terbesar dan paling berpengaruh di benua. Secara historis merupakan kekuatan dominan, Valoria kini menghadapi kehancuran dari dalam dan luar — [[Lore/Para Pemakan Hati|Wabah]] yang merayap dan [[Lore/Akselerator Internal|Akselerator Internal]] yang menggerogoti fondasinya.
 
 ---
 
-## Identitas Kerajaan
+## 🏰 Identitas Kerajaan
 
-### Informasi Dasar
+### 📊 Informasi Dasar
 
 | Aspek | Detail |
 |-------|--------|
@@ -144,9 +144,9 @@
 
 ---
 
-## Militer
+## ⚔️ Militer
 
-### Kekuatan Resmi
+### 🏛️ Kekuatan Resmi
 
 | Cabang | Kekuatan | Status |
 |--------|----------|--------|
@@ -303,4 +303,4 @@ Valoria adalah sarang utama [[Lore/Akselerator Internal|Akselerator Internal]]:
 
 ---
 
-#peradaban #valoria #manusia #krisis #politik                       
+#peradaban #valoria #manusia #krisis #politik

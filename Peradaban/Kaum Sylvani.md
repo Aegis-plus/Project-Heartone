@@ -1,18 +1,18 @@
-# Kaum Sylvani (The Sylvani)
+# 🌲 Kaum Sylvani
 
 > Kembali ke [[00 - Home|Home]] | Lokasi: [[Geografi/Hutan Bisikan Purba|Hutan Bisikan Purba]]
 
 ---
 
-## Ringkasan
+## 📜 Ringkasan
 
-**Kaum Sylvani** adalah ras elf kuno yang mendiami [[Geografi/Hutan Bisikan Purba|Hutan Bisikan Purba]] selama ribuan tahun. Mereka memiliki hubungan spiritual yang mendalam dengan [[Lore/Benteng Alam|Roh Primal Hutan]] dan menjadi garis pertahanan terkuat melawan [[Lore/Para Pemakan Hati|Wabah]].
+**🌲 Kaum Sylvani** adalah ras elf kuno yang mendiami [[Geografi/Hutan Bisikan Purba|Hutan Bisikan Purba]] selama ribuan tahun. Mereka memiliki hubungan spiritual yang mendalam dengan [[Lore/Benteng Alam|Roh Primal Hutan]] dan menjadi garis pertahanan terkuat melawan [[Lore/Para Pemakan Hati|Wabah]].
 
 ---
 
-## Identitas Ras
+## 🌳 Identitas Ras
 
-### Penampilan Fisik
+### 👤 Penampilan Fisik
 
 | Fitur | Deskripsi |
 |-------|-----------|
@@ -32,9 +32,9 @@
 
 ---
 
-## Masyarakat dan Budaya
+## 🏡 Masyarakat dan Budaya
 
-### Struktur Pemerintahan
+### 🏛️ Struktur Pemerintahan
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -135,7 +135,7 @@
 
 ---
 
-## Kekuatan Militer
+## ⚔️Kekuatan Militer
 
 ### Prajurit Sylvani
 

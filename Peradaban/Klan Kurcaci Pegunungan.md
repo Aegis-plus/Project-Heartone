@@ -1,4 +1,4 @@
-# The Star-Smith Confederacy
+# ⛏️ The Star-Smith Confederacy
 
 > Kembali ke [[00 - Home|Home]]
 

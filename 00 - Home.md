@@ -35,6 +35,7 @@
 | [[Peradaban/Republik Solara\|Republik Solara]] | Republik perdagangan netral |
 | [[Peradaban/Kerajaan Valoria\|Kerajaan Valoria]] | Kerajaan manusia yang retak |
 | [[Peradaban/Klan Kurcaci Pegunungan\|The Star-Smith Confederacy]] | Konfederasi kurcaci kristal-rune-steam |
+| [[Peradaban/Koalisi Tidesworn\|Koalisi Tidesworn]] | Aliansi maritim dengan ras Deepborn unik |
 
 ### 🏛️ Landmark Penting
 | Dokumen | Deskripsi |
@@ -69,13 +70,13 @@
 
 ### Status per Wilayah
 
-| Wilayah | Status Wabah | Kondisi |
-|---------|--------------|---------|
-| 🌲 Hutan Bisikan Purba | █░░░░░░░░░ 10% | Aman, tapi Jantung melemah |
-| 🏔️ Pegunungan Puncak Abadi | ██░░░░░░░░ 20% | Terisolasi, waspada |
-| 🏛️ Republik Solara | ███░░░░░░░ 25% | Buffer zone, tegang |
-| 🌊 Kepulauan Badai | ███░░░░░░░ 30% | Terlindungi laut |
-| 🏜️ Dataran Tandus Prahara | ███████░░░ 70% | KRITIS |
+| Wilayah                     | Status Wabah   | Kondisi                                  |
+| --------------------------- | -------------- | ---------------------------------------- |
+| 🌲 Hutan Bisikan Purba      | █░░░░░░░░░ 10% | Aman, tapi Jantung melemah               |
+| 🏔️ Pegunungan Puncak Abadi | ██░░░░░░░░ 20% | Terisolasi, waspada                      |
+| 🏛️ Republik Solara         | ███░░░░░░░ 25% | Buffer zone, tegang                      |
+| 🌊 Kepulauan Badai          | ███░░░░░░░ 30% | Tidesworn Coalition (Deepborn & Manusia) |
+| 🏜️ Dataran Tandus Prahara  | ███████░░░ 70% | KRITIS                                   |
 
 ---
 

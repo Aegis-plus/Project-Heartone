@@ -1,4 +1,4 @@
-# Republik Solara (Peradaban)
+# 🏛️ Republik Solara
 
 > Kembali ke [[00 - Home|Home]] | Geografi: [[Geografi/Republik Solara|Wilayah Solara]]
 
