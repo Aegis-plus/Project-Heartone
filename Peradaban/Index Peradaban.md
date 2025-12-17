@@ -179,7 +179,37 @@ Dunia Project Heartone dihuni oleh **empat peradaban besar** yang memiliki hubun
 
 ---
 
-## Peradaban Lain (Placeholder)
+## Peradaban Lain
+
+### 🌾 [[Peradaban/Kaum Khavari|Kaum Khavari (The Dustwalkers)]]
+
+| Aspek | Detail |
+|-------|--------|
+| **Lokasi** | [[Geografi/Dataran Tandus Prahara|Dataran Tandus Prahara]] (Nomadic) |
+| **Tipe** | Suku Nomaden Klan |
+| **Populasi** | ~8,000 (Tersebar dalam caravan) |
+| **Pemerintahan** | Dewan Penatua (Elders Council) |
+| **Fokus** | Kelangsungan Hidup, Adaptasi, Gerakan |
+| **Status Wabah** | ████░░░░░░ 40% — WASPADA |
+| **Filosofi** | "Arus yang Mengalir" — Stagnasi adalah Kematian |
+
+**Karakteristik:**
+- Ras Vaskara gurun dengan adaptasi fisik unik untuk kehidupan nomaden
+- Penjaga pengetahuan kuno tentang Dataran sebelum Wabah
+- Ahli dalam menghindari dan mendeteksi [[Lore/Para Pemakan Hati|Wabah]]
+- Hidup dalam caravan yang terus bergerak mengikuti rute migrasi
+- Hubungan tegang dengan [[Peradaban/Kerajaan Valoria|Kerajaan Valoria]]
+
+**Tokoh Penting:**
+- Elder Kaelen "Wind-Whisperer" (pemimpin spiritual)
+- Lyra "Dune-Runner" (scout terbaik)
+- Miko "Ash-Seer" (peramal Wabah muda)
+- Goran "Stone-Shaper" (pengrajin tradisi)
+- Tarek "Storm-Caller" (pemimpin caravan terbesar)
+
+**Link Lengkap:** [[Peradaban/Kaum Khavari|Kaum Khavari]]
+
+---
 
 ### ⛏️ [[Peradaban/Klan Kurcaci Pegunungan|The Star-Smith Confederacy]]
 

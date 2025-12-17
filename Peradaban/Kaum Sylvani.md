@@ -195,14 +195,87 @@
 
 ---
 
-## Tokoh Penting (Placeholder)
+## 🎭 Tokoh Penting
 
-| Peran | Nama | Status |
-|-------|------|--------|
-| Ketua Dewan Tetua | (Belum ditentukan) | NPC penting |
-| Pemimpin Muda | (Belum ditentukan) | Mungkin sekutu pemain |
-| Perwakilan Hati Hutan | (Belum ditentukan) | Suara Roh Primal |
-| Druid Pemberontak | (Belum ditentukan) | Mungkin antagonis atau sekutu |
+### 🌳 Elderon - Ketua Dewan Tetua Hutan
+
+**"Kita sudah melihat ribuan musim berlalu. Ketergesaan adalah racun bagi kebijaksanaan."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Ketua Dewan Tetua Hutan, Penjaga Tradisi |
+| **Umur** | 1,243 tahun (elf tertua yang masih hidup) |
+| **Penampilan** | Kulit seperti kulit kayu oak tua, rambut putih seperti lumut, mata berwarna amber |
+| **Kepribadian** | Sabar, bijaksana, sangat hati-hati, tradisionalis |
+| **Motivasi** | Melindungi Hutan Bisikan Purba dengan cara apapun, mempertahankan isolasi |
+| **Kemampuan** | Sihir alam tingkat tinggi, komunikasi dengan Roh Primal, strategi pertahanan |
+| **Hubungan** | Tidak mempercayai dunia luar, konflik dengan generasi muda, sangat protektif terhadap Hati Hutan |
+
+**Plot Hook:** Elderon ragu-ragu untuk menerima bantuan luar meskipun Hati Hutan sakit. Pemain harus membuktikan niat baik mereka melalui ujian tradisional.
+
+### 🌿 Lyra - Pemimpin Generasi Muda
+
+**"Jika kita terus bersembunyi, suatu hari tidak akan ada yang tersisa untuk dilindungi."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Pemimpin faksi intervensi, Ranger Elit |
+| **Umur** | 187 tahun (muda untuk standar elf) |
+| **Penampilan** | Rambut hijau zamrud, kulit keemasan, mata hijau cerah, luka di pipi dari pertempuran |
+| **Kepribadian** | Berani, idealis, tidak sabaran, karismatik |
+| **Motivasi** | Meyakinkan Dewan untuk bertindak melawan Wabah, membangun aliansi dengan dunia luar |
+| **Kemampuan** | Ahli panah, tracking, diplomasi, taktik gerilya |
+| **Hubungan** | Sekutu potensial pemain, sering bentrok dengan Elderon, dihormati oleh prajurit muda |
+
+**Plot Hook:** Lyra diam-diam mengirim pemain untuk menyelidiki sumber penyakit Hati Hutan, melawan keinginan Elderon.
+
+### 🍃 Whisperwind - Suara Hati Hutan
+
+**"Rasa sakitnya... seperti akar yang membusuk dari dalam..."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Perantara antara Sylvani dan Roh Primal |
+| **Umur** | Tidak diketahui (entitas spiritual) |
+| **Penampilan** | Figur kabur dari daun dan cahaya, suara seperti gemerisik daun |
+| **Kepribadian** | Misterius, penuh teka-teki, kadang tidak koheren |
+| **Motivasi** | Menyembuhkan Hati Hutan, menjaga keseimbangan alam |
+| **Kemampuan** | Vision, komunikasi dengan semua makhluk hutan, sihir purba |
+| **Hubungan** | Dipercaya oleh semua faksi, tetapi pesannya sering ambigu |
+
+**Plot Hook:** Whisperwind memberikan petunjuk kriptik tentang penyebab penyakit Hati Hutan melalui mimpi dan vision.
+
+### 🍂 Thorn - Druid yang Kecewa
+
+**"Mereka terlalu takut untuk melakukan apa yang diperlukan. Saya tidak."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Druid senior yang dikucilkan |
+| **Umur** | 542 tahun |
+| **Penampilan** | Jubah dari daun kering, tattoo ritual, mata berapi-api |
+| **Kepribadian** | Sinis, putus asa, radikal, manipulatif |
+| **Motivasi** | Menggunakan cara ekstrem untuk menyelamatkan hutan, frustasi dengan Dewan |
+| **Kemampuan** | Sihir gelap alam, memanipulasi tumbuhan, ilmu terlarang |
+| **Hubungan** | Diasingkan dari masyarakat utama, memiliki pengikut rahasia |
+
+**Plot Hook:** Thorn menawarkan bantuan kepada pemain dengan sihir terlarang yang bisa menyembuhkan Hati Hutan dengan cepat tetapi berbahaya.
+
+### 🌺 Elara - Penjaga Akar Senior
+
+**"Setiap daun yang jatuh adalah nyawa yang terancam. Kita harus berdiri tegak."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Komandan Penjaga Akar, Veteran Perang |
+| **Umur** | 789 tahun |
+| **Penampilan** | Armor kayu magis berukir, banyak luka pertempuran, tatapan tajam |
+| **Kepribadian** | Disiplin, loyal, praktis, tidak suka politik |
+| **Motivasi** | Melindungi perbatasan hutan, melatih generasi baru prajurit |
+| **Kemampuan** | Taktik pertahanan, sihir perlindungan, kepemimpinan militer |
+| **Hubungan** | Menghormati Elderon tetapi mendukung Lyra, netral dalam konflik politik |
+
+**Plot Hook:** Elara membutuhkan bantuan pemain untuk memperkuat pertahanan perbatasan melawan serangan Wabah yang semakin sering.
 
 ---
 

@@ -97,14 +97,27 @@ Alasan:
 | **Status** | Dalam krisis |
 | **Masalah Utama** | Korupsi, Wabah, keputusasaan |
 
-### Suku Nomaden Padang Rumput
+### [[Peradaban/Kaum Khavari|Kaum Khavari (The Dustwalkers)]]
 
 | Aspek | Detail |
 |-------|--------|
-| **Lokasi** | Area yang belum terinfeksi |
-| **Populasi** | Rendah dan menurun |
-| **Status** | Bertahan hidup, mengungsi |
-| **Pengetahuan** | Cara mengenali dan menghindari Wabah |
+| **Lokasi** | Seluruh dataran (nomadic) |
+| **Populasi** | ~8,000 (Tersebar dalam caravan) |
+| **Status** | Bertahan dengan adaptasi, bukan mengungsi |
+| **Pengetahuan** | Ahli dalam mengenali, menghindari, dan memprediksi Wabah |
+| **Filosofi** | "Arus yang Mengalir" — Stagnasi adalah Kematian |
+
+**Karakteristik:**
+- Ras Vaskara gurun dengan adaptasi fisik unik
+- Penjaga pengetahuan kuno tentang dataran sebelum Wabah
+- Hidup dalam caravan yang terus bergerak mengikuti rute migrasi tradisional
+- Hubungan tegang dengan [[Peradaban/Kerajaan Valoria|Kerajaan Valoria]]
+- Memiliki kemampuan intuitif untuk merasakan keberadaan Wabah
+
+**Peran dalam Ekosistem:**
+- Menjaga keseimbangan terakhir di dataran yang sekarat
+- Sumber informasi berharga tentang pergerakan Wabah
+- Penghubung antara zona-zona terisolasi
 
 ---
 

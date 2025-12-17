@@ -12,7 +12,7 @@
 ### 🔮 Lore dan Mitologi
 | Dokumen | Deskripsi |
 |---------|-----------|
-| [[Lore/Konsep Inti\|Konsep Inti]] | Fondasi dan tema utama dunia |
+| [[Lore/Konsep Inti]] | Fondasi dan tema utama dunia |
 | [[Lore/Gerhana Abadi\|Gerhana Abadi]] | Peristiwa kosmik yang mengubah segalanya |
 | [[Lore/Para Pemakan Hati\|Para Pemakan Hati]] | Ancaman utama dunia |
 | [[Lore/Benteng Alam\|Benteng Alam]] | Kekuatan penyeimbang |

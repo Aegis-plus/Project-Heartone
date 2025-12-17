@@ -231,16 +231,103 @@
 
 ---
 
-## Tokoh Penting (Placeholder)
+## 🎭 Tokoh Penting
 
-| Peran | Nama | Deskripsi | Status |
-|-------|------|-----------|--------|
-| Raja/Ratu | (Belum ditentukan) | Pemimpin resmi | Lemah, terisolasi |
-| Pewaris Tahta | (Belum ditentukan) | Mungkin sekutu atau musuh | Ambigu |
-| Jenderal Loyalis | (Belum ditentukan) | Pemimpin militer yang jujur | Potensial sekutu |
-| Penasihat Korup | (Belum ditentukan) | Akselerator Internal | Antagonis |
-| Pemimpin Kultis | (Belum ditentukan) | Dalang ritual gelap | Antagonis tersembunyi |
-| Pemimpin Pemberontak | (Belum ditentukan) | Rakyat yang bangkit | Ambigu |
+### 👑 Raja Theron IV - Penguasa yang Terisolasi
+
+**"Aku masih raja di istanaku sendiri, meski kerajaanku runtuh di luar."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Raja Valoria, Pemimpin Resmi |
+| **Umur** | 58 tahun (tampak lebih tua) |
+| **Penampilan** | Wajah lelah dengan lingkaran hitam, jubah kerajaan usang, mahkota yang terlalu berat |
+| **Kepribadian** | Cemas, paranoid, terisolasi, masih memiliki sisa-sisa kebijaksanaan |
+| **Motivasi** | Menyelamatkan warisannya, melindungi rakyat yang tersisa, menemukan solusi |
+| **Kemampuan** | Pengetahuan sejarah kerajaan, legitimasi politik, jaringan informan terbatas |
+| **Hubungan** | Tidak mempercayai siapa pun, terasing dari keluarga, dikelilingi pengkhianat |
+
+**Plot Hook:** Theron diam-diam mencari bantuan luar untuk membersihkan istananya dari koruptor, tetapi terlalu takut untuk bertindak terbuka.
+
+### 👸 Putri Elara - Pewaris yang Frustasi
+
+**"Ayah terlalu lemah untuk melihat kebenaran. Seseorang harus bertindak."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Putri Mahkota, Pemimpin Faksi Reformis |
+| **Umur** | 25 tahun |
+| **Penampilan** | Cantik tapi tegas, armor praktis di bawah jubah, mata penuh tekad |
+| **Kepribadian** | Ambisius, pragmatis, tidak sabaran, sedikit sinis |
+| **Motivasi** | Menggantikan ayahnya, membersihkan korupsi, menyelamatkan kerajaan dengan cara apapun |
+| **Kemampuan** | Diplomasi, strategi politik, memimpin pasukan kecil loyalis |
+| **Hubungan** | Konflik dengan ayahnya, sekutu dengan beberapa bangsawan muda, dicurigai oleh tradisionalis |
+
+**Plot Hook:** Elara merekrut pemain untuk misi rahasia melawan koruptor, menawarkan imbalan politik jika berhasil.
+
+### ⚔️ Jenderal Marcus - Singa Tua yang Loyal
+
+**"Aku telah melayani mahkota selama 40 tahun. Tidak akan berhenti sekarang."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Komandan Tertinggi Pasukan Kerajaan |
+| **Umur** | 62 tahun |
+| **Penampilan** | Badan berotot penuh luka, armor usang tapi terawat, tatapan baja |
+| **Kepribadian** | Loyal, jujur, tradisionalis, frustasi dengan politik |
+| **Motivasi** | Mempertahankan benteng terakhir, melindungi rakyat, menjaga sumpah kesetiaan |
+| **Kemampuan** | Strategi militer, kepemimpinan di medan perang, taktik defensif |
+| **Hubungan** | Setia kepada raja, dihormati pasukan, bentrok dengan politisi korup |
+
+**Plot Hook:** Marcus membutuhkan bantuan pemain untuk mengamankan pasokan ke benteng perbatasan yang dikepung.
+
+### 🐍 Lord Valerius - Ular Berbisa Istana
+
+**"Kekacauan bukan bencana, tapi peluang... bagi mereka yang cukup berani."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Penasihat Kerajaan Senior, Akselerator Internal |
+| **Umur** | 45 tahun |
+| **Penampilan** | Tampan dan halus, pakaian mewah, senyum manipulatif |
+| **Kepribadian** | Licik, ambisius, sadis, sangat manipulatif |
+| **Motivasi** | Menguasai kerajaan yang runtuh, melayani kekuatan gelap untuk kekuasaan |
+| **Kemampuan** | Manipulasi politik, sihir gelap, jaringan mata-mata |
+| **Hubungan** | Mengontrol banyak bangsawan, musuh semua yang jujur, memiliki kultus rahasia |
+
+**Plot Hook:** Valerius mencoba merekrut pemain dengan janji kekuasaan, atau menjadi target utama untuk diungkap.
+
+### 🕯️ Sister Morwenna - Pemimpin Kegelapan
+
+**"Rasa sakit mereka adalah persembahan. Ketakutan mereka adalah kekuatan kita."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Pemimpin Kultus Para Pemakan Hati |
+| **Umur** | Tidak diketahui (tampak 30-an) |
+| **Penampilan** | Jubah hitam, tattoo ritual, mata tanpa cahaya |
+| **Kepribadian** | Fanatik, karismatik, tanpa emosi, berbahaya |
+| **Motivasi** | Menyebarkan Wabah, mengorbankan Valoria untuk kekuatan gelap |
+| **Kemampuan** | Sihir kegelapan, manipulasi massa, ritual korban |
+| **Hubungan** | Bekerja dengan Valerius, memimpin kultus bawah tanah, musuh semua kehidupan |
+
+**Plot Hook:** Morwenna melakukan ritual besar yang bisa mempercepat kehancuran Valoria jika tidak dihentikan.
+
+### 🔥 Kaelen - Suara Rakyat
+
+**"Mereka duduk di istana emas sementara kita mati kelaparan. Sudah cukup!"**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Pemimpin Pemberontak Rakyat |
+| **Umur** | 28 tahun |
+| **Penampilan** | Wajah berapi-api, pakaian sederhana, luka pertempuran |
+| **Kepribadian** | Karismatik, marah, idealis, kadang ceroboh |
+| **Motivasi** | Menggulingkan bangsawan korup, memberi makan rakyat, keadilan |
+| **Kemampuan** | Memimpin massa, taktik gerilya, mengetahui seluk-beluk kota |
+| **Hubungan** | Didukung rakyat jelata, dicari oleh otoritas, sekutu potensial yang berisiko |
+
+**Plot Hook:** Kaelen memimpin pemberontakan yang bisa membantu atau menghancurkan upaya pemain, tergantung pilihan.
 
 ---
 

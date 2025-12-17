@@ -166,6 +166,106 @@ Solara rentan terhadap [[Lore/Akselerator Internal|Akselerator Internal]] karena
 
 ---
 
+## 🎭 Tokoh Penting
+
+### 💼 High Chancellor Aris - Pemimpin Dewan Agung
+
+**"Stabilitas adalah mata uang yang paling berharga. Semua yang lain hanyalah perubahan kecil."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Ketua Dewan Agung, Pemimpin Republik |
+| **Umur** | 68 tahun |
+| **Penampilan** | Berpakaian elegan dengan jubah chancellor, wajah diplomatik, mata analitis |
+| **Kepribadian** | Pragmatis, berhati-hati, master diplomasi, sedikit sinis |
+| **Motivasi** | Mempertahankan stabilitas Solara, menjaga netralitas, mencegah perang ekonomi |
+| **Kemampuan** | Negosiasi tingkat tinggi, ekonomi makro, jaringan kontak internasional |
+| **Hubungan** | Dipercaya oleh sebagian besar guild, dicurigai oleh faksi radikal |
+
+**Plot Hook:** Aris membutuhkan pemain untuk menyelesaikan krisis diplomatik rahasia yang mengancam netralitas Solara.
+
+### 🔍 Lady Selene - Master of Whispers
+
+**"Setiap rahasia memiliki harganya. Dan saya tahu harga semua rahasia."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Kepala Guild Informasi, Spymaster |
+| **Umur** | 42 tahun (tampak lebih muda) |
+| **Penampilan** | Pakaian sederhana tapi mahal, mata yang melihat segalanya, senyum misterius |
+| **Kepribadian** | Misterius, cerdas, manipulatif, selalu beberapa langkah lebih depan |
+| **Motivasi** | Mengumpulkan informasi, menjaga keseimbangan kekuasaan, keuntungan pribadi |
+| **Kemampuan** | Intelijen, kriptografi, manipulasi, jaringan mata-mata luas |
+| **Hubungan** | Memiliki kompromat pada hampir semua orang, netral tapi berbahaya |
+
+**Plot Hook:** Selene menawarkan informasi vital tentang Wabah dengan imbalan melakukan "tugas kecil" untuknya.
+
+### ⚒️ Master Forgemaker Thorin - Guild Pengrajin
+
+**"Kualitas berbicara sendiri. Dan kualitas saya berteriak."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Kepala Guild Pengrajin, Master Artisan |
+| **Umur** | 55 tahun |
+| **Penampilan** | Tangan berotot penuh bekas luka, apron kulit, tatapan perfeksionis |
+| **Kepribadian** | Bangga, jujur, perfeksionis, tidak suka politik |
+| **Motivasi** | Menghasilkan karya terbaik, melindungi guild dari korupsi, keadilan bagi pengrajin |
+| **Kemampuan** | Crafting masterwork, manajemen produksi, deteksi pemalsuan |
+| **Hubungan** | Dihormati oleh pekerja, bentrok dengan pedagang korup, sekutu potensial yang jujur |
+
+**Plot Hook:** Thorin membutuhkan bahan langka yang hanya bisa didapat dari zona berbahaya untuk membuat senjata melawan Wabah.
+
+### 🛡️ Captain Valerius - Komandan Bayaran
+
+**"Loyalitas saya dibeli, tapi kehormatan saya tidak. Tawarkan harga yang tepat."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Komandan Guild Bayaran, Veteran Perang |
+| **Umur** | 48 tahun |
+| **Penampilan** | Armor praktis dengan insignia guild, banyak luka, tatapan profesional |
+| **Kepribadian** | Profesional, pragmatis, memiliki kode kehormatan pribadi |
+| **Motivasi** | Membayar utang guild, melindungi reputasi, menemukan pekerjaan bermartabat |
+| **Kemampuan** | Taktik militer, kepemimpinan pasukan bayaran, negosiasi kontrak |
+| **Hubungan** | Loyal kepada yang membayar, memiliki konflik dengan beberapa anggota guild |
+
+**Plot Hook:** Valerius dan pasukannya bisa disewa untuk misi berbahaya, atau perlu diselamatkan dari kontrak yang buruk.
+
+### 📚 Archivist Kaelen - Penjaga Pengetahuan
+
+**"Setiap jawaban ada di sini. Tanyakan pertanyaan yang tepat."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Kepala Arsip Kosmik, Scholar Tertinggi |
+| **Umur** | 72 tahun |
+| **Penampilan** | Jubah scholar, kacamata tebal, selalu membawa buku |
+| **Kepribadian** | Intelektual, sabar, idealis, sedikit ceroboh |
+| **Motivasi** | Melestarikan pengetahuan, menemukan kebenaran, melawan ketidaktahuan |
+| **Kemampuan** | Pengetahuan ensiklopedik, penelitian, bahasa kuno, sihir akademik |
+| **Hubungan** | Dihormati oleh scholars, diabaikan oleh politisi, sekutu informasi |
+
+**Plot Hook:** Kaelen memiliki petunjuk tentang cara mengalahkan Wabah tetapi butuh bantuan mengumpulkan artefak kuno.
+
+### 💰 Merchant Prince Lysander - Oportunis Berbahaya
+
+**"Krisis bukan bencana, tapi pasar yang belum dimanfaatkan."**
+
+| Detail | Deskripsi |
+|--------|-----------|
+| **Peran** | Pemimpin Guild Pedagang, Akselerator Internal |
+| **Umur** | 50 tahun |
+| **Penampilan** | Pakaian mewah berlebihan, perhiasan mencolok, senyum tidak tulus |
+| **Kepribadian** | Serakah, tidak berprinsip, manipulatif, berbahaya |
+| **Motivasi** | Keuntungan pribadi, kekuasaan, memanipulasi pasar |
+| **Kemampuan** | Manipulasi ekonomi, korupsi, jaringan kriminal |
+| **Hubungan** | Memiliki banyak pejabat di sakunya, musuh keadilan, bekerja dengan kekuatan gelap |
+
+**Plot Hook:** Lysander terlibat dalam perdagangan ilegal dengan Para Pemakan Hati dan perlu diungkap atau dimanipulasi.
+
+---
+
 ## Potensi Peran dalam Kampanye
 
 ### Sebagai Lokasi
